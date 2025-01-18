@@ -1,0 +1,25 @@
+========================================================================
+ Miami-Dade County, Florida Zip Code
+------------------------------------------------------------------------
+ https://koordinates.com/layer/96304-miami-dade-county-florida-zip-code/
+========================================================================
+From: Miami-Dade County, Florida
+
+Region: Miami-Dade County
+
+CRS: WGS 84
+
+------------------------------------------------------------------------
+ Processing steps applied by Koordinates
+------------------------------------------------------------------------
+
+- imported to Koordinates in Esri JSON format on 06 Sep 2018
+- reprojected from NAD83 / Florida East (ftUS) to WGS 84
+- converted by Koordinates to Shapefile on 16 Jan 2025 (reference #3853230)
+
+====================
+No license specified
+====================
+
+No license was specified for this layer. This could mean default rights under copyright law for your legal jurisdiction may apply. Please check with Koordinates if you're unsure of your right to access and use this layer.
+
